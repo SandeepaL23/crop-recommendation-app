@@ -41,7 +41,7 @@ Check out the live app here: [🔗 Streamlit App Link](https://crop-recommendati
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/crop-recommendation-app.git
+   git clone https://github.com/SandeepaL23/crop-recommendation-app
    cd crop-recommendation-app
 
 
