@@ -32,7 +32,7 @@ This project aims to develop an intelligent crop recommendation system using mac
 
   ## 🚀 Demo
 
-Check out the live app here: [🔗 Streamlit App Link]([https://your-deployed-link.streamlit.app](https://crop-recommendation-app-gyubdygz7bvkrmcc9d6s2e.streamlit.app/))  
+Check out the live app here: [🔗 Streamlit App Link](https://crop-recommendation-app-gyubdygz7bvkrmcc9d6s2e.streamlit.app/)  
 
 
 ---
