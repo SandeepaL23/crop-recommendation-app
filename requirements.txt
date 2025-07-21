@@ -4,6 +4,3 @@ joblib
 scikit-learn
 pandas
 lightgbm
-
-Add any other libraries you used for training or data processing if needed.
-This will ensure your app runs smoothly on any deployment platform.
